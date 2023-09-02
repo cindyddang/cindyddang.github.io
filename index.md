@@ -1,6 +1,6 @@
-Hello, my name is Duyen Dang and I also go with Cindy Dang. I am a sophomore at The University of Houston, majoring in Computer Science. I love learning how to code, either in my school or online classes that I found online!
+Hello, my name is Duyen Dang and I also go with Cindy Dang. I am a Junior at The University of Houston, majoring in Computer Science. I love learning how to code, either in my school or online classes that I found online!
 
-I had a chance to know about Computer Science since sophomore year during my High school. Until now, despite being the freshman at the university, I already work with Java for three years during High school. I have learnt Java, basic SQL and how to use GUI within Java. I discovered my interest towards the fields during High school and decide to follow this career path.
+I had a chance to know about Computer Science since sophomore year during my High school. I am most comfortable with Java since I have been I knew it since High school, basic SQL and how to use GUI within Java. I also learnt to code in C++ and read in many programming languages. I discovered my interest towards the fields during High school and decide to follow this career path.
 
 Some of my academic projects is posted on my GitHub account.
 
