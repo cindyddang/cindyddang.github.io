@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Personal Financial Assistant
+description: IB Computer Science, Spring 2021
+img: assets/img/1.jpg
 importance: 3
-category: fun
+category: 2021
 ---
 
 Every project has a beautiful feature showcase page.
